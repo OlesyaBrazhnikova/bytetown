@@ -1,0 +1,21 @@
+.btn {
+  margin: 25px 0 0;
+  width: 100%;
+  padding: 10px;
+  background-color: $color-btn-bg;
+  color: $color-white;
+  border: 1px solid $color-btn-bg;
+  transition: all 0.4s;
+
+  &:hover {
+    background-color: transparent;
+    color: $color-btn-bg;
+  }
+}
+
+.title {
+  font-family: 'Grafita';
+  font-size: 54px;
+  line-height: 64px;
+  color: $color-hover-text;
+}

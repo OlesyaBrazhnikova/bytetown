@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Grafita';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local(''),
+       url('../fonts/Grafita-NormalDEMO.woff2') format('woff2'), 
+       url('../fonts/Grafita-NormalDEMO.woff') format('woff');
+}
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local(''),
+       url('../fonts/Manrope-Regular.woff2') format('woff2'),
+       url('../fonts/Manrope-Regular.woff') format('woff');
+}
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: local(''),
+       url('../fonts/Manrope-Medium.woff2') format('woff2'),
+       url('../fonts/Manrope-Medium.woff') format('woff');
+}
